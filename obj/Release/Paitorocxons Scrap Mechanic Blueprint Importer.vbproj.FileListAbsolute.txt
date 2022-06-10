@@ -1,0 +1,14 @@
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Release\Paitorocxons Scrap Mechanic Blueprint Importer.exe.config
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Release\Paitorocxons Scrap Mechanic Blueprint Importer.exe
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Release\Paitorocxons Scrap Mechanic Blueprint Importer.pdb
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Release\Paitorocxons Scrap Mechanic Blueprint Importer.xml
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Release\Paitorocxons_Scrap_Mechanic_Blueprint_Importer.filenamer.resources
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Release\Paitorocxons_Scrap_Mechanic_Blueprint_Importer.Form1.resources
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Release\Paitorocxons_Scrap_Mechanic_Blueprint_Importer.Form2.resources
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Release\Paitorocxons_Scrap_Mechanic_Blueprint_Importer.Resources.resources
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Release\Paitorocxons Scrap Mechanic Blueprint Importer.vbproj.GenerateResource.cache
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Release\Paitorocxons Scrap Mechanic Blueprint Importer.vbproj.CoreCompileInputs.cache
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Release\Paitorocxons Scrap Mechanic Blueprint Importer.exe
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Release\Paitorocxons Scrap Mechanic Blueprint Importer.xml
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Release\Paitorocxons Scrap Mechanic Blueprint Importer.pdb
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Release\Paitorocxons Scrap Mechanic Blueprint Importer.vbprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.exe.config
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.exe
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.pdb
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.xml
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.vbprojAssemblyReference.cache
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons_Scrap_Mechanic_Blueprint_Importer.Form1.resources
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons_Scrap_Mechanic_Blueprint_Importer.Resources.resources
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.vbproj.GenerateResource.cache
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.vbproj.CoreCompileInputs.cache
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.exe
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.xml
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.pdb
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons_Scrap_Mechanic_Blueprint_Importer.Form2.resources
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Debug\Newtonsoft.Json.dll
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.vbproj.CopyComplete
+K:\0.Development\Visual Studio Projekte\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons_Scrap_Mechanic_Blueprint_Importer.filenamer.resources
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.exe.config
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.exe
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.pdb
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\bin\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.xml
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.vbprojAssemblyReference.cache
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons_Scrap_Mechanic_Blueprint_Importer.filenamer.resources
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons_Scrap_Mechanic_Blueprint_Importer.Form1.resources
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons_Scrap_Mechanic_Blueprint_Importer.Form2.resources
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons_Scrap_Mechanic_Blueprint_Importer.Resources.resources
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.vbproj.GenerateResource.cache
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.vbproj.CoreCompileInputs.cache
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.vbproj.CopyComplete
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.exe
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.xml
+D:\BACKUP\Selfwrittensoftware\Paitorocxons Scrap Mechanic Blueprint Importer\obj\Debug\Paitorocxons Scrap Mechanic Blueprint Importer.pdb
